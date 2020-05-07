@@ -401,7 +401,7 @@
                   <div class="member-info">
                     <h4>Madji Sock</h4>
                     <span>Présidente</span>
-                    <p>Consultante en stratégie <br> Directrice de Dalberg Dakar</p>
+                    <p>Consultante en stratégie <br> Associée à Dalberg</p>
                     <div class="social">
                       <!--<a href=""><i class="ri-twitter-fill"></i></a>
                       <a href=""><i class="ri-facebook-fill"></i></a>
@@ -432,7 +432,7 @@
                   <div class="member-info">
                     <h4>Astou Diop</h4>
                     <span>Secrétaire Générale</span>
-                    <p>Directrice FGI (Finance Gestion & Intermédiation)</p>
+                    <p>Directrice FGI (Finance Gestion Intermédiation)</p>
                     <div class="social">
                       <a href="https://www.linkedin.com/in/astou-diop/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
                     </div>
@@ -445,8 +445,8 @@
                   <div class="pic"><img src="assets/img/team/tcs.jpg" class="img-fluid" alt=""></div>
                   <div class="member-info">
                     <h4>Thiaba Camara Sy</h4>
-                    <span>Administrateur de sociétés</span>
-                    <p>Expert-comptable <br> PCA WIC Capital</p>
+                    <span>Trésorière</span>
+                    <p>Expert-Comptable <br> PCA WIC Capital</p>
                     <div class="social">
                       <a href="https://www.linkedin.com/in/thiaba-camara-sy/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
                     </div>
