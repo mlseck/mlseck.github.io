@@ -120,7 +120,7 @@
           <div class="col-lg-4">
             <div class="section-title" data-aos="fade-right">
               <h2>Qui sommes-nous ?</h2>
-              <p>Premier club d’investissement de femmes au Sénégal regroupant à jour 83 membres, le Women’s Investment Club (WIC) Sénégal a pour vision de donner aux femmes un accès privilégié aux instruments financiers modernes au service d’un développement économique inclusif. Le 08 mars 2019, le WIC Sénégal a lancé le premier fonds d’investissement dédié exclusivement aux entreprises dirigées par des femmes au Sénégal et en Côte d’Ivoire, WIC Capital. Aujourd’hui, le WIC s’active à la mise en place d’un programme d’accompagnement d’entreprises dirigées par des femmes au Sénégal, la WIC Académie.</p>
+              <p>Premier club d’investissement de femmes au Sénégal regroupant à jour 84 membres, le Women’s Investment Club (WIC) Sénégal a pour vision de donner aux femmes un accès privilégié aux instruments financiers modernes au service d’un développement économique inclusif. Le 08 mars 2019, le WIC Sénégal a lancé le premier fonds d’investissement dédié exclusivement aux entreprises dirigées par des femmes au Sénégal et en Côte d’Ivoire, WIC Capital. Aujourd’hui, le WIC s’active à la mise en place d’un programme d’accompagnement d’entreprises dirigées par des femmes au Sénégal, la WIC Académie.</p>
             </div>
           </div>
           <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
@@ -206,7 +206,7 @@
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">500</span>
-            <p>millions de F CFA en reçus en subvention</p>
+            <p>millions de F CFA reçus en subvention</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
@@ -264,7 +264,7 @@
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bxs-school"></i>
                     <h4>WIC Académie</h4>
-                    <p>Structure d’accompagnement et d’assistance technique au sein de laquelle l’expertise des membres du WIC sera mise à disposition de femmes entrepreneurs </p>
+                    <p>Structure d’accompagnement et d’assistance technique au sein de laquelle l’expertise des membres du WIC est mise à disposition de femmes entrepreneurs </p>
                   </div>
                 </div>
               </div>
@@ -355,27 +355,27 @@
           </div>
 
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-            <p data-aos="fade-up">WIC Académie capitalise sur l’expertise des membres du WIC, les partenariats techniques avec des organisations locales et internationales, ainsi que sur l’expertise externe pour fournir un accompagnement et une assistance technique de haut calibre aux femmes entrepreneurs africaines.</p>
+            <p data-aos="fade-up">WIC Académie capitalise sur l’expertise des membres du WIC, les partenariats techniques avec des organisations locales et internationales, ainsi que sur l’expertise externe pour fournir un accompagnement et une assistance technique de haut calibre aux femmes entrepreneurs du Sénégal.</p>
 
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bx bx-book-reader"></i></div>
-              <h4 class="title"><a href="">Coaching personnalisé</a></h4>
+              <h4 class="title">Coaching personnalisé</h4>
               <p class="description">Les entreprises de la WIC Académie bénéficient d'un coaching personnalisé par un membre du WIC et de l'accompagnement d'experts au besoin.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bx bxs-network-chart"></i></div>
-              <h4 class="title"><a href="">Opportunités de réseautage</a></h4>
+              <h4 class="title">Opportunités de réseautage</h4>
               <p class="description">Des événements de networking, y compris des mixeurs par secteurs d'activité, seront organisés pour encourager la collaboration et les synergies entre les bénéficiaires.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bx bx-list-plus"></i></div>
-              <h4 class="title"><a href="">Centre de services partagés</a></h4>
+              <h4 class="title">Centre de services partagés</h4>
               <p class="description">Un centre de services partagés est mis à disposition des bénéficiaires de l'académie pour la formalisation et le support administratif (comptabilité, RH, services juridiques, etc.).</p>
             </div>
             <br>
-            <p> Pour bénéficier de l'accompagnement de la WIC Académie, veuillez envoyer ce formulaire dûment rempli par courriel à contact@wicsenegal.com </p>
+            <p> Pour bénéficier de l'accompagnement de la WIC Académie, veuillez envoyer <a href="https://www.dropbox.com/s/g0n9xvseiilp86u/Bulletin%20d%27adh%C3%A9sion%20WIC%20SENEGAL.docx?dl=0">ce formulaire</a> dûment rempli par courriel à <a href="mailto:contact@wicsenegal.com">contact@wicsenegal.com</a>. </p>
           </div>
         </div>
 
