@@ -11,7 +11,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>WIC Senegal - Index</title>
+    <title>WIC Senegal Home</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -70,7 +70,7 @@
   <!-- ======= Main Image Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200">
-      <h1>Appuyer l'entrepreneuriat féminin pour un développement économique inclusif</h1>
+      <h1>Promouvoir l'entrepreneuriat féminin pour un développement économique inclusif</h1>
       <h2>Women's Investment Club Sénégal </h2>
       <a href="#about" class="btn-get-started scrollto">En Savoir Plus</a>
     </div>
@@ -244,23 +244,25 @@
               <div class="row">
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
+                    <i class="bx bx-user-circle"></i>
                     <h4>WIC Club</h4>
+                    <!-- <img src="assets/img/logo-wic-sm.png" class="why-us-img" alt=""> -->
                     <p>Véhicule d’épargne et de gestion d’investissements lancé en mars 2016 regroupant 84 femmes qui investissent à la Bourse Régionale des Valeurs Mobilières (BRVM)
                     </p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-cube-alt"></i>
+                    <i class="bx bx-dollar-circle"></i>
                     <h4>WIC Capital</h4>
+                    <!-- <img src="assets/img/wiccapital-logo-sm.png" class="why-us-img" alt=""> -->
                     <p>Fonds syndiqué lancé en mars 2019 qui investit entre 25.000 et 250.000 $ dans des entreprises dirigées par des femmes au Sénégal
                     </p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-images"></i>
+                    <i class="bx bxs-school"></i>
                     <h4>WIC Académie</h4>
                     <p>Structure d’accompagnement et d’assistance technique au sein de laquelle l’expertise des membres du WIC sera mise à disposition de femmes entrepreneurs </p>
                   </div>
@@ -303,7 +305,7 @@
             <div class="row">
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
-                  <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                  <div class="icon"><i class="bx bx-female"></i></div>
                   <h4><a href="https://wic-capital.net/entrepreneurs/" target="_blank">Entrepreneurs</a></h4>
                   <p>WIC Capital a vocation à financer et accompagner des entreprises sénégalaises et ivoiriennes à fort potentiel, qui répondent aux critères « genre » définis par le WIC</p>
                 </div>
@@ -311,7 +313,7 @@
 
               <div class="col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
-                  <div class="icon"><i class="bx bx-file"></i></div>
+                  <div class="icon"><i class="bx bx-dollar"></i></div>
                   <h4><a href="https://wic-capital.net/investisseurs/" target="_blank">Investisseurs</a></h4>
                   <p>WIC Capital propose des investissements profitables tout en favorisant le développement économique inclusif</p>
                 </div>
@@ -319,7 +321,7 @@
 
               <div class="col-md-6 d-flex align-items-stretch mt-4">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-                  <div class="icon"><i class="bx bx-tachometer"></i></div>
+                  <div class="icon"><i class="bx bx-merge"></i></div>
                   <h4><a href="https://wic-capital.net/a-propos/" target="_blank">A Propos</a></h4>
                   <p>WIC Capital vise à développer un portefeuille de PME prometteuses qui contribueront au développement des économies de l’Afrique de l’Ouest</p>
                 </div>
@@ -327,7 +329,7 @@
 
               <div class="col-md-6 d-flex align-items-stretch mt-4">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="400">
-                  <div class="icon"><i class="bx bx-world"></i></div>
+                  <div class="icon"><i class="bx bx-news"></i></div>
                   <h4><a href="https://wic-capital.net/wic-dans-les-medias/" target="_blank">Presse</a></h4>
                   <p>Retrouvez WIC Capital dans la presse locale et internationale</p>
                 </div>
@@ -356,19 +358,19 @@
             <p data-aos="fade-up">WIC Académie capitalise sur l’expertise des membres du WIC, les partenariats techniques avec des organisations locales et internationales, ainsi que sur l’expertise externe pour fournir un accompagnement et une assistance technique de haut calibre aux femmes entrepreneurs africaines.</p>
 
             <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="bx bx-fingerprint"></i></div>
+              <div class="icon"><i class="bx bx-book-reader"></i></div>
               <h4 class="title"><a href="">Coaching personnalisé</a></h4>
               <p class="description">Les entreprises de la WIC Académie bénéficient d'un coaching personnalisé par un membre du WIC et de l'accompagnement d'experts au besoin.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="bx bx-gift"></i></div>
+              <div class="icon"><i class="bx bxs-network-chart"></i></div>
               <h4 class="title"><a href="">Opportunités de réseautage</a></h4>
               <p class="description">Des événements de networking, y compris des mixeurs par secteurs d'activité, seront organisés pour encourager la collaboration et les synergies entre les bénéficiaires.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="bx bx-atom"></i></div>
+              <div class="icon"><i class="bx bx-list-plus"></i></div>
               <h4 class="title"><a href="">Centre de services partagés</a></h4>
               <p class="description">Un centre de services partagés est mis à disposition des bénéficiaires de l'académie pour la formalisation et le support administratif (comptabilité, RH, services juridiques, etc.).</p>
             </div>
