@@ -408,9 +408,9 @@
                 Fatou Niang Ndiaye est la Directrice Générale de SOPASEN
               </p>
               <div class="social">
-                <%--                  <a href=""><i class="icofont-twitter"></i></a>
-                                  <a href=""><i class="icofont-facebook"></i></a>
-                                  <a href=""><i class="icofont-instagram"></i></a>--%>
+                <%--<a href=""><i class="icofont-twitter"></i></a>
+                <a href=""><i class="icofont-facebook"></i></a>
+                <a href=""><i class="icofont-instagram"></i></a>--%>
                 <a href="https://www.linkedin.com/in/fatou-niang-29b9071/?originalSubdomain=sn"><i class="icofont-linkedin"></i></a>
               </div>
             </div>
