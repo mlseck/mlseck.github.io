@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .get-started a {
-  background: #ed1f77;
+  background: #9e372c;
   color: #fff;
   border-radius: 50px;
   margin: 0 15px;
@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .get-started a:hover {
-  background: #ed1f77;
+  background: #9e372c;
   color: #fff;
 }
 
@@ -588,11 +588,6 @@ section {
   background: #ed1f77;
   border-radius: 4px;
   color: #fff;
-}
-
-.why-us .why-us-img {
-  width: 90px;
-  margin: 0 auto;
 }
 
 .why-us .content h3 {
